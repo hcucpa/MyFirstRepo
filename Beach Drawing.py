@@ -1,3 +1,6 @@
+#this is me fixing bugs
+#the bugs are fixed now :)
+
 import turtle
 import random
 from random import randint
